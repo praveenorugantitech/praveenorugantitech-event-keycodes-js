@@ -1,9 +1,9 @@
 # Event Keycodes developed using JavaScript
  
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-event-keycodes/screenshot.PNG "Event Keycodes")
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-event-keycodes/screenshot1.PNG "Event Keycodes")
-
+<div>
+<img align="right" width="100%"  src="screenshot.PNG" />
+ <img align="right" width="100%"  src="screenshot1.PNG" />
+</div>
 
 [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-event-keycodes-js/Demo/)
 
